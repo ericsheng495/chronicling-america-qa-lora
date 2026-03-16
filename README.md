@@ -1,6 +1,6 @@
 # ChroniclingAmericaQA — Phi-3.5 Zero-Shot Baseline
 
-> **Course:** Georgia Tech CS 8803
+> **Course:** Georgia Tech CS 8803: Machine Learning for History and Humanities
 > **Model:** `microsoft/phi-3.5-mini-instruct`
 > **Dataset:** [ChroniclingAmericaQA](https://huggingface.co/datasets/Bhawna/ChroniclingAmericaQA)
 
